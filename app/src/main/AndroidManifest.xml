@@ -37,7 +37,7 @@
       android:permission="android.permission.BIND_JOB_SERVICE" />
     <meta-data
       android:name="com.google.android.geo.API_KEY"
-      android:value="AIzaSyBTbAbW6TBaeaVLG4JWvyS7be8FJjiOZj4" />
+      android:value="YOUR_API_KEY" />
   </application>
 
 </manifest>
